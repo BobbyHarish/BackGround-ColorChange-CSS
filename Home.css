@@ -1,0 +1,53 @@
+body{
+    animation-name: BGChange;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+@keyframes BGChange{
+    0%{background-color: #974EC3;}
+    10%{background-color: #EC53B0;}
+    20%{background-color: #FEFFAC;}
+    30%{background-color: #5C8374;}
+    40%{background-color: #352F44;}
+    50%{background-color: #793FDF;}
+    60%{background-color: #79155B;}
+    70%{background-color: #40F8FF;}
+    80%{background-color: #FD8D14;}
+    90%{background-color: #898121;}
+    100%{background-color: #E80F88;}
+}
+/*.container
+{
+    background-color: white;
+    
+}
+h1{
+    text-align: center;
+}
+.glow
+{
+    font-size: 150%;
+    font-style: normal;
+    animation-name: color;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes color{
+    0% {color: red;}
+    25% {color: yellow;}
+    50% {color: green;}
+    75% {color: black;}
+    100% {color: blue;}
+}
+.Name{
+    color:#845EC2;
+    font-size: 150%;
+    font-style: oblique;
+    font-weight: 200;
+}
+.form
+{
+    background-color: #E4E4D0;
+    border-width: 30px;
+    border-color: #EC53B0;
+}*/

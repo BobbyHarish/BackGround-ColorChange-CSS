@@ -1,0 +1,40 @@
+.university{
+    margin-top: 0%;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.image{
+    background-color: #EEEEEE;
+    border: 5px solid #8EAC50;
+    padding: 10px;
+    text-align: center;
+    border-style: inset;
+}
+.align{
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200%;
+    color: #F7E987;
+    gap: 5px;
+}
+.style{
+    font-size: 120%;
+    margin-right: 3px;
+    column-gap: normal;
+}
+.About{
+    background-color: #FFF7D4;
+     width: 300px;
+     border: 15px solid #C07F00;
+     border-style: outset;
+     border-radius: 20px;
+    padding: 20px;
+    margin-left: 445px;
+    
+}
+.fit{
+    margin-top: 5px;
+}
